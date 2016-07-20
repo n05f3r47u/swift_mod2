@@ -7,14 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		71828D541D3DB85F000E27BF /* pizzaconf.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71828D531D3DB85F000E27BF /* pizzaconf.jpg */; };
+		71828D561D3DB86C000E27BF /* pizzahorno.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71828D551D3DB86C000E27BF /* pizzahorno.jpg */; };
+		71B265B31D1A248E00B746B8 /* ViewMasa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B265B21D1A248E00B746B8 /* ViewMasa.swift */; };
+		71B265B51D1A29F700B746B8 /* ViewQueso.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B265B41D1A29F700B746B8 /* ViewQueso.swift */; };
+		71B265B71D1A4D7300B746B8 /* ViewIngrediente.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B265B61D1A4D7200B746B8 /* ViewIngrediente.swift */; };
+		71B265B91D1A57D800B746B8 /* ViewPedido.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B265B81D1A57D800B746B8 /* ViewPedido.swift */; };
 		71BDA02A1D16F07F00E18E99 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BDA0291D16F07F00E18E99 /* AppDelegate.swift */; };
 		71BDA02C1D16F07F00E18E99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71BDA02B1D16F07F00E18E99 /* ViewController.swift */; };
 		71BDA02F1D16F07F00E18E99 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71BDA02D1D16F07F00E18E99 /* Main.storyboard */; };
 		71BDA0311D16F07F00E18E99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71BDA0301D16F07F00E18E99 /* Assets.xcassets */; };
 		71BDA0341D16F07F00E18E99 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71BDA0321D16F07F00E18E99 /* LaunchScreen.storyboard */; };
+		71DE4D021D32DF6B00D7DEB4 /* ingredpizza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71DE4CFE1D32DF6B00D7DEB4 /* ingredpizza.jpg */; };
+		71DE4D031D32DF6B00D7DEB4 /* masapizza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71DE4CFF1D32DF6B00D7DEB4 /* masapizza.jpg */; };
+		71DE4D041D32DF6B00D7DEB4 /* quesopizza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71DE4D001D32DF6B00D7DEB4 /* quesopizza.jpg */; };
+		71DE4D051D32DF6B00D7DEB4 /* tamanopizza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 71DE4D011D32DF6B00D7DEB4 /* tamanopizza.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		71828D531D3DB85F000E27BF /* pizzaconf.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pizzaconf.jpg; path = "../../../../../../Downloads/pizza imagenes/pizzaconf.jpg"; sourceTree = "<group>"; };
+		71828D551D3DB86C000E27BF /* pizzahorno.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pizzahorno.jpg; path = "../../../../../../Downloads/pizza imagenes/pizzahorno.jpg"; sourceTree = "<group>"; };
+		71B265B21D1A248E00B746B8 /* ViewMasa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewMasa.swift; sourceTree = "<group>"; };
+		71B265B41D1A29F700B746B8 /* ViewQueso.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewQueso.swift; sourceTree = "<group>"; };
+		71B265B61D1A4D7200B746B8 /* ViewIngrediente.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewIngrediente.swift; sourceTree = "<group>"; };
+		71B265B81D1A57D800B746B8 /* ViewPedido.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewPedido.swift; sourceTree = "<group>"; };
 		71BDA0261D16F07F00E18E99 /* PizzaMia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PizzaMia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71BDA0291D16F07F00E18E99 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71BDA02B1D16F07F00E18E99 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +38,10 @@
 		71BDA0301D16F07F00E18E99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71BDA0331D16F07F00E18E99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71BDA0351D16F07F00E18E99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71DE4CFE1D32DF6B00D7DEB4 /* ingredpizza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ingredpizza.jpg; path = "../../../../../../Downloads/pizza imagenes/ingredpizza.jpg"; sourceTree = "<group>"; };
+		71DE4CFF1D32DF6B00D7DEB4 /* masapizza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = masapizza.jpg; path = "../../../../../../Downloads/pizza imagenes/masapizza.jpg"; sourceTree = "<group>"; };
+		71DE4D001D32DF6B00D7DEB4 /* quesopizza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = quesopizza.jpg; path = "../../../../../../Downloads/pizza imagenes/quesopizza.jpg"; sourceTree = "<group>"; };
+		71DE4D011D32DF6B00D7DEB4 /* tamanopizza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tamanopizza.jpg; path = "../../../../../../Downloads/pizza imagenes/tamanopizza.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +74,32 @@
 		71BDA0281D16F07F00E18E99 /* PizzaMia */ = {
 			isa = PBXGroup;
 			children = (
+				71DE4CFB1D32D3F000D7DEB4 /* imagenes */,
 				71BDA0291D16F07F00E18E99 /* AppDelegate.swift */,
 				71BDA02B1D16F07F00E18E99 /* ViewController.swift */,
 				71BDA02D1D16F07F00E18E99 /* Main.storyboard */,
 				71BDA0301D16F07F00E18E99 /* Assets.xcassets */,
 				71BDA0321D16F07F00E18E99 /* LaunchScreen.storyboard */,
 				71BDA0351D16F07F00E18E99 /* Info.plist */,
+				71B265B21D1A248E00B746B8 /* ViewMasa.swift */,
+				71B265B41D1A29F700B746B8 /* ViewQueso.swift */,
+				71B265B61D1A4D7200B746B8 /* ViewIngrediente.swift */,
+				71B265B81D1A57D800B746B8 /* ViewPedido.swift */,
 			);
 			path = PizzaMia;
+			sourceTree = "<group>";
+		};
+		71DE4CFB1D32D3F000D7DEB4 /* imagenes */ = {
+			isa = PBXGroup;
+			children = (
+				71DE4CFE1D32DF6B00D7DEB4 /* ingredpizza.jpg */,
+				71828D531D3DB85F000E27BF /* pizzaconf.jpg */,
+				71DE4CFF1D32DF6B00D7DEB4 /* masapizza.jpg */,
+				71DE4D001D32DF6B00D7DEB4 /* quesopizza.jpg */,
+				71828D551D3DB86C000E27BF /* pizzahorno.jpg */,
+				71DE4D011D32DF6B00D7DEB4 /* tamanopizza.jpg */,
+			);
+			name = imagenes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,8 +161,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				71BDA0341D16F07F00E18E99 /* LaunchScreen.storyboard in Resources */,
+				71DE4D021D32DF6B00D7DEB4 /* ingredpizza.jpg in Resources */,
+				71DE4D051D32DF6B00D7DEB4 /* tamanopizza.jpg in Resources */,
 				71BDA0311D16F07F00E18E99 /* Assets.xcassets in Resources */,
+				71828D541D3DB85F000E27BF /* pizzaconf.jpg in Resources */,
 				71BDA02F1D16F07F00E18E99 /* Main.storyboard in Resources */,
+				71DE4D041D32DF6B00D7DEB4 /* quesopizza.jpg in Resources */,
+				71DE4D031D32DF6B00D7DEB4 /* masapizza.jpg in Resources */,
+				71828D561D3DB86C000E27BF /* pizzahorno.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +179,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71B265B71D1A4D7300B746B8 /* ViewIngrediente.swift in Sources */,
 				71BDA02C1D16F07F00E18E99 /* ViewController.swift in Sources */,
 				71BDA02A1D16F07F00E18E99 /* AppDelegate.swift in Sources */,
+				71B265B91D1A57D800B746B8 /* ViewPedido.swift in Sources */,
+				71B265B51D1A29F700B746B8 /* ViewQueso.swift in Sources */,
+				71B265B31D1A248E00B746B8 /* ViewMasa.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,6 +334,7 @@
 				71BDA03A1D16F07F00E18E99 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
